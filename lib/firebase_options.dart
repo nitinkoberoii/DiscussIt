@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyByqQ8uuDSNuZYdN-CoWpqaAOL45Wo2Ivk',
-    appId: '1:940804824190:web:fda6c5fcffdefe775d4c2f',
-    messagingSenderId: '940804824190',
-    projectId: 'discussit-77146',
-    authDomain: 'discussit-77146.firebaseapp.com',
-    storageBucket: 'discussit-77146.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCnbqGafCEA6FqA0ePnvEKzIg--X90l6Uw',
-    appId: '1:940804824190:android:697838d19a3958f15d4c2f',
-    messagingSenderId: '940804824190',
-    projectId: 'discussit-77146',
-    storageBucket: 'discussit-77146.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCVZD5SxGf0QYzvVmbeJ5AWADXaWuZx7E8',
-    appId: '1:940804824190:ios:b3cdef1207d2d4995d4c2f',
-    messagingSenderId: '940804824190',
-    projectId: 'discussit-77146',
-    storageBucket: 'discussit-77146.appspot.com',
-    iosBundleId: 'com.example.discussIt',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyByqQ8uuDSNuZYdN-CoWpqaAOL45Wo2Ivk',
-    appId: '1:940804824190:web:15910fa46cb4a4bf5d4c2f',
-    messagingSenderId: '940804824190',
-    projectId: 'discussit-77146',
-    authDomain: 'discussit-77146.firebaseapp.com',
-    storageBucket: 'discussit-77146.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
