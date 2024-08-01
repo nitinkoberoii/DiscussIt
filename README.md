@@ -12,6 +12,7 @@ Tech Stack:-
 - Riverpod (State Management)
 
 Screenshots of the application:-
+
 LogIn/SignUp Screen:
 
 ![image](https://github.com/user-attachments/assets/2a886148-a945-4569-a17c-f81cd5471b3b)  ![image](https://github.com/user-attachments/assets/f7e8e1f9-141c-4c27-9d71-d0c93e25d2c2)
@@ -36,6 +37,7 @@ User Profile Screen:
 
 
 Toggling Theme:
+
 ![image](https://github.com/user-attachments/assets/9cf23e04-63e3-4f04-917e-0e936e07f197)
 
 
